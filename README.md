@@ -15,6 +15,10 @@ This project automates log analysis, system performance monitoring, and security
 2. Install the required Python libraries:
    ```bash
    git intall psutil scapy sendgrid
+3. Install nmap:
+   Download from https://nmap.org/
+   
+
 ## Usage
 1. Log analysis:
    ```bash
