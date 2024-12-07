@@ -20,15 +20,11 @@ This project automates log analysis, system performance monitoring, and security
    
 
 ## Usage
-1. Log analysis:
+1. Run the Script:
    ```bash
-   python log_analysis.py
-2. performance Monitoring:
-   ```bash
-   python performance_monitoring.py
-3. Network Scaning:
-   ```bash
-   python security_checks.py
+   python AutomationAssignment.py
+2. Review the outputs: `summary_report.txt`, `performance_log.txt`, and the console.
+   
 ## Members
 Members: 
 - Shac (Data analysis)
