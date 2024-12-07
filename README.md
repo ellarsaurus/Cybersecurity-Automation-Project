@@ -11,4 +11,4 @@ This project automates log analysis, system performance monitoring, and security
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/Cybersecurity-Automation-Project.git
+   git clone https://github.com/ellarsaurus/Cybersecurity-Automation-Project.git
