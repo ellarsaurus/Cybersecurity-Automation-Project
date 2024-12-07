@@ -12,3 +12,24 @@ This project automates log analysis, system performance monitoring, and security
 1. Clone this repository:
    ```bash
    git clone https://github.com/ellarsaurus/Cybersecurity-Automation-Project.git
+2. Install the required Python libraries:
+   ```bash
+   git intall psutil scapy sendgrid
+## Usage
+1. Log analysis:
+   ```bash
+   python log_analysis.py
+2. performance Monitoring:
+   ```bash
+   python performance_monitoring.py
+3. Network Scaning:
+   ```bash
+   python security_checks.py
+## Members
+Members: 
+- Shac (Data analysis)
+- Khalid (System Modelers)
+- Ella (Python Developers)
+- Gabby (Project Manager)
+- Sridevi (Python Developers)
+- Sailndra (System Modelers)
