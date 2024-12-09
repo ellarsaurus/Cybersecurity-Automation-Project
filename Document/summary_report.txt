@@ -1,0 +1,19 @@
+Total suspicious logs found: 9
+081109 211204 1543 WARN dfs.DataNode$DataTransfer: 10.251.194.147:50010:Failed to transfer blk_992101295951175683 to 10.251.214.112:50010 got java.io.IOException: Connection reset by peer
+
+081109 211831 1797 WARN dfs.DataNode$DataTransfer: 10.251.39.242:50010:Failed to transfer blk_5862064168004546076 to 10.251.35.1:50010 got java.io.IOException: Connection reset by peer
+
+081110 012427 5397 WARN dfs.DataNode$DataTransfer: 10.251.74.227:50010:Failed to transfer blk_-2942077810471468030 to 10.251.38.214:50010 got java.io.IOException: Connection reset by peer
+
+081110 104106 8875 WARN dfs.DataNode$DataTransfer: 10.251.123.132:50010:Failed to transfer blk_7162246307091465257 to 10.251.90.64:50010 got java.io.IOException: Connection reset by peer
+
+081110 104334 9146 WARN dfs.DataNode$DataTransfer: 10.251.105.189:50010:Failed to transfer blk_-1292779714385604878 to 10.251.91.32:50010 got java.io.IOException: Connection reset by peer
+
+081110 104521 8931 WARN dfs.DataNode$DataTransfer: 10.251.203.179:50010:Failed to transfer blk_9122720022222323339 to 10.251.91.32:50010 got java.io.IOException: Connection reset by peer
+
+081110 104552 9165 WARN dfs.DataNode$DataTransfer: 10.251.31.180:50010:Failed to transfer blk_3311461718180475343 to 10.251.91.32:50010 got java.io.IOException: Connection reset by peer
+
+081110 115900 10462 WARN dfs.DataNode$DataTransfer: 10.251.195.52:50010:Failed to transfer blk_-8122638974387556519 to 10.250.7.96:50010 got java.io.IOException: Connection reset by peer
+
+081111 072145 23306 WARN dfs.DataNode$DataTransfer: 10.251.67.211:50010:Failed to transfer blk_-2448583810301041956 to 10.251.71.97:50010 got java.io.IOException: Connection reset by peer
+
